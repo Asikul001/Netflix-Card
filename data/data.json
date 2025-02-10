@@ -1,0 +1,134 @@
+[
+    {
+      "title": "Stranger Things",
+      "genre": ["Drama", "Fantasy", "Horror"],
+      "release_year": 2016,
+      "description": "A group of kids in the 1980s uncover supernatural mysteries in their small town.",
+      "rating": 8.7,
+      "netflix_url": "https://www.netflix.com/title/80057281",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/a1.jpeg"
+    },
+    {
+      "title": "The Crown",
+      "genre": ["Drama", "History"],
+      "release_year": 2016,
+      "description": "The story of Queen Elizabeth II's reign and the events that shaped the 20th century.",
+      "rating": 8.6,
+      "netflix_url": "https://www.netflix.com/title/80025678",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/b1.jpeg"
+    },
+    {
+      "title": "The Witcher",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "release_year": 2019,
+      "description": "Geralt of Rivia, a monster hunter, struggles to find his place in a world where people are often more wicked than beasts.",
+      "rating": 8.0,
+      "netflix_url": "https://www.netflix.com/title/80189685",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/c1.jpeg"
+    },
+    {
+      "title": "Narcos",
+      "genre": ["Crime", "Drama", "Biography"],
+      "release_year": 2015,
+      "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
+      "rating": 8.8,
+      "netflix_url": "https://www.netflix.com/title/80025172",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/d1.jpeg"
+    },
+    {
+      "title": "Bridgerton",
+      "genre": ["Drama", "Romance"],
+      "release_year": 2020,
+      "description": "Follows the lives and romantic exploits of the Bridgerton family in Regency-era London.",
+      "rating": 7.4,
+      "netflix_url": "https://www.netflix.com/title/80232398",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/e1.jpeg"
+    },
+    {
+      "title": "Money Heist",
+      "genre": ["Action", "Crime", "Drama"],
+      "release_year": 2017,
+      "description": "A criminal mastermind plans the biggest heist in recorded history.",
+      "rating": 8.2,
+      "netflix_url": "https://www.netflix.com/title/80192098",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/f1.jpeg"
+    },
+    {
+      "title": "Ozark",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "release_year": 2017,
+      "description": "A financial planner relocates his family to the Ozarks to launder money for a drug cartel.",
+      "rating": 8.5,
+      "netflix_url": "https://www.netflix.com/title/80117552",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/g1.webp"
+    },
+    {
+      "title": "BoJack Horseman",
+      "genre": ["Animation", "Comedy", "Drama"],
+      "release_year": 2014,
+      "description": "A washed-up actor who happens to be a horse navigates life and relationships in Hollywood.",
+      "rating": 8.8,
+      "netflix_url": "https://www.netflix.com/title/70300800",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/H1.jpeg"
+    },
+    {
+      "title": "The Umbrella Academy",
+      "genre": ["Action", "Adventure", "Comedy"],
+      "release_year": 2019,
+      "description": "A dysfunctional family of adopted superhero siblings reunites to solve the mystery of their father's death.",
+      "rating": 7.9,
+      "netflix_url": "https://www.netflix.com/title/80186863",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/i1.jpeg"
+    },
+    {
+      "title": "13 Reasons Why",
+      "genre": ["Drama", "Mystery"],
+      "release_year": 2017,
+      "description": "A teenager discovers a series of tapes explaining why his classmate took her own life.",
+      "rating": 7.5,
+      "netflix_url": "https://www.netflix.com/title/80117470",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/k1.webp"
+    },
+    {
+      "title": "Klaus",
+      "genre": ["Animation", "Adventure", "Comedy"],
+      "release_year": 2019,
+      "description": "A young postman stationed in an icy town forms an unlikely friendship with a toymaker named Klaus.",
+      "rating": 8.2,
+      "netflix_url": "https://www.netflix.com/title/80183187",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/l1.jpeg"
+    },
+    {
+      "title": "The Willoughbys",
+      "genre": ["Animation", "Comedy", "Family"],
+      "release_year": 2020,
+      "description": "Convinced they'd be better off raising themselves, the Willoughby children hatch a sneaky plan to send their selfish parents on vacation.",
+      "rating": 6.4,
+      "netflix_url": "https://www.netflix.com/title/80241226",
+      "free": false,
+      "price": "$9.99/month",
+      "image": "http://localhost:5173/src/assets/m1.jpeg"
+    }
+  ]

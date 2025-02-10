@@ -1,0 +1,28 @@
+
+*{
+  border:0px;
+  margin: 1px;
+  font-family:'monospace', Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+}
+.card {
+  background-color: #df7c7c;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  width: 300px;
+  height: 600px;
+  margin: 16px;
+  
+}
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.card-parents {
+  display: flex;
+    flex-wrap: wrap; /* Allows cards to wrap to the next line if there's not enough space */
+    gap: 16px;       /* Adds space between the cards */
+    justify-content: center;
+}
