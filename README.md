@@ -3,8 +3,8 @@ Trying to make a Netflix Card Project using React
 ![Demo](./demo.png)
 You can run my project in Your Local Machine and plz give a feedback
 ``` bash
-git clone https://github.com/Asikul001/Netflix-card.git
-cd Netflix-card
+git clone https://github.com/Asikul001/Netflix-Card.git
+cd Netflix-Card
 npm install
 npm run dev
 ```
